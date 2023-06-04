@@ -3,5 +3,6 @@ public class GithubDuygu {
         System.out.println("hello world");
         System.out.println("duygu");
         System.out.println("proje");
+        System.out.println("2023");
     }
 }
