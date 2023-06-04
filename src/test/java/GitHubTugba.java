@@ -4,5 +4,6 @@ public class GitHubTugba
         System.out.println("Main branch olusturuldu");
         System.out.println("Ikinci commit");
 
+        System.out.println("yeni degisiklikler eklendi");
     }
 }
